@@ -21,6 +21,8 @@ class Printer:
             self.spooler.append(document)
             print(f"{document} has been added to spooler.")
 
+    def get_waiting_documents_number(self):
+        print(f"There are {len(self.spooler)} waiting documents in the spooler.")
 
 printer = Printer(brand="XEROX", model="9700")
 
@@ -29,3 +31,5 @@ printer.add_to_spooler("pokedex.pdf")
 printer.add_to_spooler("m1cr0s0ft.docx")
 
 printer.print()
+
+printer.get_waiting_documents_number()

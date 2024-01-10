@@ -1,5 +1,9 @@
 # Tales of Stallman
 
+Exercice 1:
+- Esteban Pirc
+- IsToze
+
 In the realm of technology, a legendary figure named Richard Stallman embarked on a mission to liberate users from the proprietary clutches of the Printer Dragon. This formidable beast guarded printers with closed-source drivers, holding users captive.
 
 Stallman, a champion of software freedom, gathered a fellowship of developers to create an open-source printer driver. Despite challenges and proprietary minions, they triumphed. The resulting driver symbolized resistance against closed-source tyranny, offering users freedom to share, modify, and distribute it.

@@ -17,8 +17,6 @@ class Printer:
         self.spooler = []
 
     def add_to_spooler(self, document):
-        if document:
-            return
         self.spooler.append(document)
         print(f"{document} has been added to spooler.")
 

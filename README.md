@@ -22,7 +22,7 @@ Don't forget to give the project a star! Thanks again!
 ## Thanks
 
 - guillaume-fbz
-
+-Valentin-Reghem
 
 ## License
 

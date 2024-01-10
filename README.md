@@ -21,7 +21,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## Thanks
 
-- guillaume-fbz
+- ISToze
+- Fix Bug In Console.
 
 
 ## License

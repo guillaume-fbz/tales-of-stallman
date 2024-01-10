@@ -1,0 +1,9 @@
+python3 printer.py
+oak.txt has been added to spooler.
+pokedex.pdf has been added to spooler.
+m1cr0s0ft.docx has been added to spooler.
+Printing documents with XEROX 9700:
+Printing: oak.txt ... OK
+Printing: pokedex.pdf ... OK
+Printing: m1cr0s0ft.docx ... OK
+All documents have benn printed.
